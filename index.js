@@ -1,2 +1,2 @@
-var another = 'another';
-console.log(another);
+var test = 'test';
+console.log(test);
